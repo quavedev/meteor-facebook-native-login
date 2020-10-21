@@ -4,6 +4,10 @@ login using native Facebook Sdk.
 
 Documentation of the Cordova plugin [here](https://github.com/jeduan/cordova-plugin-facebook4).
 
+## Installation
+
+`meteor add quave:facebook-native-login`
+
 ## Usage
 
 This package add a new function `Meteor.loginWithNativeFacebook(options, callback);`, the params are the same of`
